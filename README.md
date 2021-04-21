@@ -1,1 +1,3 @@
-# HQ-Blog
+# Headline
+
+> An awesome project.
